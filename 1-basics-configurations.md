@@ -1,5 +1,5 @@
 ---
-title: Configuraciones básicas
+title: Basics configurations
 layout: default
 ---
 
@@ -63,19 +63,19 @@ Está configuración de clock rate debe ir en el router con serial principal, y 
 
 Una configuración inportante en este tipo de router es cambiar la contraseña de administración del dispositivo, configurar SSID de los canales de transmisión con la máxima seguridad posible WPA2 o WP3 en algunos dispositivos nuevos. También es recomendable hacer segmentación de las redes para que personas ajenas no puedan tener acceso a la red principal.
 
-[image1](./1.jpeg)
+[image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTmGVyhVOw-Pz2P6d4ljf46vWUI3azFDiSsKNO6SDqllcbCZQR5mKJBaW8HMe-mr78Tdx2mGEUNE0zhpEtxprmW8JbHEWN_g9_jxWzb2ejgBniITu3j4ea6oKWTOcK6HYrOAMBNCYlKUs48cKICB1CMmhDEvPjekp7QLVkNiorq_ELl9-mhT64g4D5Lg/s732/1.jpeg)
 
 En esta ventana 'Setup' se configura los parámetros del direccionamiento IP en la LAN, el rango DHCP que lo distribuira el router mismo
 
-[image2](./2.jpeg)
+[image2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqiSHdxObN_YvPigFJjCrLBDbBqE71-amjePqsaFDUq5iTJZ0Cfx1kryUfE4e-93wchn8qnsAhsveFa08LlpRT_IlQU7RWZz_Ip_XHcJjC4XWrPNlqsODfqLStSC727bEeSuWvtGzFuSLN_O5eBlVx2FrwiUQQx_JEOZUUfxI6CnPeXpSsTio2AMmVlA/s653/2.jpeg)
 
 En la pestaña 'Wireless' configuramos las bandas de transmisión, los bandas varían depende al router
 
-[image3](./3.jpeg)
+[image3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEietx0n64-NX3d8h1JH-doHmKXDun1q1bG3HdEgvvWSmqof1d17KB8yBFYzl8Me2w8WYCzddz5c_sGvsjkiarcFaaE8kdcccp1mWScVEvS-dP4XDpvi1lZCLVGuCFK6-mLXDZB7sUzj4-23sS-Mu33-t1hSsYJ0N2d6JWACOsqclTrQLJIbHeNvp3LI3Q/s823/3.jpeg)
 
 En 'Wireless security' configuramos la seguridad inalámbrica, se recomienda usar WPA2 como seguridad porque es la mas fuerte hoy en día, la contraseña debe tener 8 caracteres mínimo
 
-[image4](./4.jpeg)
+[image4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj64CymtJYwMB4IAJoBPyar1BYPwI-K7ygcn9gBf_wLZ4GbzxQsZdIo76optNbjZTkVsJV5t-K3GyzSRHMdT6Fau1tfXbY8pyRur9d6Nt0LOSp7wv9MWybp6qHJdx5MaMcknZjejWlgn8tFskWSPvEefP_1xU2rXFW58z0vFtKiqJCR8ofuUwC-r-I6aw/s708/4.jpeg)
 
 Y en la pestaña de Administración cambiamos la contraseña por defecto, y ponemos una que sea más segura.
 

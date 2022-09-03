@@ -34,9 +34,9 @@ layout: default
 
 ### [RIP](./8-rip.md).
 
-# Routing between vlans
+# Switching
 
-### [Vlans-routing](./9-routing-vlans.md).
+### [Switching](./9-switching.md).
 
 # ACL
 
@@ -45,5 +45,8 @@ layout: default
 # NAT
 
 ### [NAT](./11-nat.md).
+
+# GRE configuration
+### [GRE](./12-gre.md).
 
 ### [Contact](./Contact.md)
