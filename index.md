@@ -49,4 +49,7 @@ layout: default
 # GRE configuration
 ### [GRE](./12-gre.md).
 
+# VPLS
+### [VPLS](./13-vpls.md).
+
 ### [Contact](./Contact.md)
