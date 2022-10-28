@@ -52,4 +52,7 @@ layout: default
 # VPLS
 ### [VPLS](./13-vpls.md).
 
+# VPRN
+### [VPRN](./14-vprn.md).
+
 ### [Contact](./Contact.md)
