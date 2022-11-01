@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Configuraciones básicas en dispositivos Cisco
+# Load Balancer
 
-### [Basics-confs](./1-basics-configurations.md).
+### [Load balancer](./1-1-lb.md)
 
 # Configuración de acceso remoto en dispositivos Cisco
 
