@@ -42,6 +42,10 @@ layout: default
 
 ### [ACL](./10-acl.md).
 
+# Servicios IP: Redudancia
+
+### [Redundancia](./11-1-redun.md).
+
 # NAT
 
 ### [NAT](./11-nat.md).
