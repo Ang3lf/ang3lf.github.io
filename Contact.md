@@ -7,7 +7,7 @@ layout: default
 
 Hi, I´m Angel
 
-I´m a person that likes all about technology, consider that the internet is important for each person due to the communication. Contributing my energy, skills, and passion to the position I am assigned, to achieve the highest standards. 
+I have experience in automation, cybersecurity, and cloud infrastructure, developing a SOAR platform on Kubernetes with multi-SIEM integration. A continuous learner with a collaborative approach and a focus on building scalable solutions.
 
 <a href="mailto:fuentesangel164@gmail.com?subject=Contacto&body=¿...?">E-mail</a>
 <p></p>

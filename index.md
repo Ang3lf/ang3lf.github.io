@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
+# SOAR
+### [SOAR](./15-soar.md).
 
-# Load Balancer
+# Load Balancer (AWS)
 
-### [Load balancer](./1-1-lb.md)
+### [Load balancer](./1-1-lb.md).
 
 # Configuración de acceso remoto en dispositivos Cisco
 
