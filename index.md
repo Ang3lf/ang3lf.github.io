@@ -1,8 +1,12 @@
 ---
 layout: default
+title: HOME
 ---
 # SOAR
 ### [SOAR](./15-soar.md).
+
+# SOAR/UI
+### [SOAR-UI](./16-soarUi.md).
 
 # Load Balancer (AWS)
 

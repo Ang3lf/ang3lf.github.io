@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Load Balancer on AWS
+title: SOAR
 ---
 
 # Workflow SOAR de correo electrónico a incidente: arquitectura y diseño
@@ -172,5 +172,7 @@ Cada ticket contiene:
 ## Lecciones Aprendidas
 1. *La validación temprana es crítica*: Detectar datos corruptos en parsing ahorra 5 capas de debugging.
 2. *Las colas son oro*: Un queue lento es mejor que un servicio caído.
-3. *Configuración y Código*: Permitir a analistas agregar reglas reduce dependencia en desarrollo y agregación.
+3. *Código*: Permitir a analistas agregar reglas reduce dependencia en desarrollo y agregación.
 4. *Segmentación*: Si un pod/servicio/microservicio cae no repercute en los demás.
+
+## [Atrás](./)
